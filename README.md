@@ -7,7 +7,7 @@ This repo created to provide high quality information about master degree master
 2. [MEXT](https://github.com/mahmoudxyz/master-degree-scholarships#mext-scholarship)
 3. [DAAD](https://github.com/mahmoudxyz/master-degree-scholarships#daad-scholarship)
 4. [Erasmus Mundus](https://github.com/mahmoudxyz/master-degree-scholarships#erasmus-mundus-scholarship)
-
+5. [Romanian Scholarship](https://github.com/mahmoudxyz/master-degree-scholarships#Romanian-scholarship)
 
 
 
@@ -74,6 +74,21 @@ Fully-funded scholarships to undertake any master's course at any UK university.
 | **Official Website**     | [Erasmus Mundus](https://eacea.ec.europa.eu/erasmus-plus/emjmd_en) |
 | **Application Portal**   | Varies by EMJMD Program (Check program-specific websites) |
 
+## Romanian Scholarship
+
+| **Category**             | **Details**                                   |
+|--------------------------|-----------------------------------------------|
+| **Scholarship Name**     | Romanian Government Scholarship               |
+| **Sponsor**              | Government of Romania                         |
+| **Level**                | Bachelor's, Master's, and Ph.D. Programs      |
+| **Eligible Countries**   | International students (varies by program)   |
+| **Application Period**   | 15 December 2022         |
+| **Application Deadline** | 1 March 2023             |
+| **Selection Criteria**   | Academic excellence, language proficiency, research plan, etc. |
+| **Funding Coverage**     | Tuition fees, accommodation, monthly stipend, medical insurance, etc.|
+| **Duration**             | Varies by Program (usually 3-5 years)        |
+| **Official Website**     | [Romanian Government Scholarships](https://www.mae.ro/en/node/10251) |
+| **Application Portal**   | [National Authority for Scientific Research and Innovation](https://www.ancs.ro/en/) |
 
 
 
