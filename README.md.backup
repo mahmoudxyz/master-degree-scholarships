@@ -1,10 +1,10 @@
 # Master degree scholarships
 
 ## Content
-1. Chevening
+1. [Chevening](/# Chevening Scholarship)
 
 
-## Chevening Scholarships
+## Chevening Scholarship
 
 Fully-funded scholarships to undertake any master's course at any UK university. 
 
