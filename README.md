@@ -90,8 +90,18 @@ Fully-funded scholarships to undertake any master's course at any UK university.
 | **Official Website**     | [Romanian Government Scholarships](https://www.mae.ro/en/node/10251) |
 | **Application Portal**   | [National Authority for Scientific Research and Innovation](https://www.ancs.ro/en/) |
 
+## Clarendon Scholarship
 
-
-
-
-
+| **Category**             | **Details**                                   |
+|--------------------------|-----------------------------------------------|
+| **Scholarship Name**     | Clarendon Scholarship                         |
+| **Sponsor**              | University of Oxford                         |
+| **Level**                | Master's and Ph.D. Programs                   |
+| **Eligible Countries**   | All nationalities (International students)   |
+| **Application Period**   | December or January deadline       |
+| **Application Deadline** | December or January deadline                  |
+| **Selection Criteria**   | Academic excellence, research potential, leadership abilities, etc.|
+| **Funding Coverage**     | Tuition fees, living stipend, travel costs, and a grant for research expenses, etc.|
+| **Duration**             | Full duration of the degree program (1-3 years depending on the course) |
+| **Official Website**     | [Clarendon Scholarship](https://www.clarendon.ox.ac.uk/) |
+| **Application Portal**   | [University of Oxford Graduate Admissions](https://www.ox.ac.uk/admissions/graduate) |
