@@ -1,7 +1,7 @@
 # Master degree scholarships
 
 ## Content
-1. [Chevening](/# Chevening Scholarship)
+1. [Chevening](https://github.com/mahmoudxyz/master-degree-scholarships#chevening-scholarship)
 
 
 ## Chevening Scholarship
