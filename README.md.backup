@@ -153,4 +153,19 @@ Fully-funded scholarships to undertake any master's course at any UK university.
 | **Duration**             | Up to 4 years                                 |
 | **Official Website**     | [SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa/) |
 
+## Yale University Scholarship
+
+| **Category**             | **Details**                                   |
+|--------------------------|-----------------------------------------------|
+| **Fellowship Name**      | GSAS Yale University Fellowship               |
+| **Sponsor**              | Yale University Graduate School of Arts and Sciences |
+| **Level**                | Ph.D. and Master's Programs                   |
+| **Eligible Countries**   | All nationalities                             |
+| **Application Period**   | Varies by fellowship (Check GSAS website)     |
+| **Selection Criteria**   | Academic excellence, research potential, letters of recommendation, etc. |
+| **Funding Coverage**     | Full or partial tuition, stipend for living expenses, research or conference funding, etc. |
+| **Duration**             | Varies by fellowship (2-6 years for Ph.D., 1-2 years for Master's) |
+| **Official Website**     | [GSAS Yale University Fellowships](https://gsas.yale.edu/financial-aid/fellowships) |
+| **Application Portal**   | [GSAS Online Fellowship Application](https://gsas.yale.edu/admissions/apply-now) |
+
 
