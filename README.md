@@ -8,6 +8,10 @@ This repo created to provide high quality information about master degree master
 3. [DAAD](https://github.com/mahmoudxyz/master-degree-scholarships#daad-scholarship)
 4. [Erasmus Mundus](https://github.com/mahmoudxyz/master-degree-scholarships#erasmus-mundus-scholarship)
 5. [Romanian Scholarship](https://github.com/mahmoudxyz/master-degree-scholarships#Romanian-scholarship)
+6. [SI Scholarship](https://github.com/mahmoudxyz/master-degree-scholarships#si-scholarship)
+7. [Türkiye Scholarships](https://github.com/mahmoudxyz/master-degree-scholarships#Türkiye-scholarship)
+8. [SINGA](https://github.com/mahmoudxyz/master-degree-scholarships#SINGA)
+9. 
 
 
 
@@ -105,3 +109,48 @@ Fully-funded scholarships to undertake any master's course at any UK university.
 | **Duration**             | Full duration of the degree program (1-3 years depending on the course) |
 | **Official Website**     | [Clarendon Scholarship](https://www.clarendon.ox.ac.uk/) |
 | **Application Portal**   | [University of Oxford Graduate Admissions](https://www.ox.ac.uk/admissions/graduate) |
+
+## SI Scholarship
+
+| **Category**             | **Details**                                   |
+|--------------------------|-----------------------------------------------|
+| **Scholarship Name**     | Swedish Institute Scholarship (SI Scholarship)|
+| **Sponsor**              | Swedish Institute                            |
+| **Level**                | Master's Programs                   |
+| **Eligible Countries**   | Citizens of countries on the SI Scholarship List |
+| **Application Period**   | 12 February         |
+| **Selection Criteria**   |  [Read here](https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/#criteria) |
+| **Funding Coverage**     | Tuition fees, living expenses, travel grant, insurance, etc.|
+| **Duration**             | Master's (1 or 2 years)|
+| **Official Website**     | [Swedish Institute Scholarship](https://si.se/en/scholarship/) |
+| **Application Portal**   | [Swedish Institute Scholarships](https://si.se/en/apply/scholarships/) |
+
+## Türkiye Scholarships
+
+| **Category**             | **Details**                                   |
+|--------------------------|-----------------------------------------------|
+| **Scholarship Name**     | Türkiye Scholarships                           |
+| **Sponsor**              | Republic of Turkey                            |
+| **Application Period**   | January 10 – February 20           |
+| **Selection Criteria**   | Academic performance|
+| **Funding Coverage**     | Tuition fees, monthly stipend, accommodation, health insurance, and travel costs, etc.|
+| **Duration**             | Varies by program (typically 1-2 years for Master's, 3-4 years for Ph.D.) |
+| **Official Website**     | [Türkiye Scholarships](https://www.turkiyeburslari.gov.tr/en/) |
+| **Application Portal**   | [Türkiye Scholarships Application System](https://tbbs.turkiyeburslari.gov.tr/) |
+
+## SINGA
+
+| **Category**             | **Details**                                   |
+|--------------------------|-----------------------------------------------|
+| **Scholarship Name**     | Singapore International Graduate Award (SINGA) |
+| **Sponsor**              | Agency for Science, Technology and Research (A*STAR), Nanyang Technological University (NTU), National University of Singapore (NUS) |
+| **Level**                | Ph.D. Programs                                |
+| **Eligible Countries**   | All international students                    |
+| **Application Period**   | Typically opens in January each year          |
+| **Application Deadline** | Usually in June each year                      |
+| **Selection Criteria**   | Academic achievements, research ability, recommendation letters, etc. |
+| **Funding Coverage**     | Full tuition fees, monthly stipend, airfare, settling-in allowance, and more |
+| **Duration**             | Up to 4 years                                 |
+| **Official Website**     | [SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa/) |
+
+
