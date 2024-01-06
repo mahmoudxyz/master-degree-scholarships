@@ -4,14 +4,14 @@ This repo created to provide high quality information about master degree master
 
 ## Content
 1. [Chevening](https://github.com/mahmoudxyz/master-degree-scholarships#chevening-scholarship)
-2. [MEXT](https://github.com/mahmoudxyz/master-degree-scholarships#mext-scholarship)
-3. [DAAD](https://github.com/mahmoudxyz/master-degree-scholarships#daad-scholarship)
-4. [Erasmus Mundus](https://github.com/mahmoudxyz/master-degree-scholarships#erasmus-mundus-scholarship)
-5. [Romanian Scholarship](https://github.com/mahmoudxyz/master-degree-scholarships#Romanian-scholarship)
-6. [SI Scholarship](https://github.com/mahmoudxyz/master-degree-scholarships#si-scholarship)
-7. [Türkiye Scholarships](https://github.com/mahmoudxyz/master-degree-scholarships#Türkiye-scholarship)
-8. [SINGA](https://github.com/mahmoudxyz/master-degree-scholarships#SINGA)
-9. 
+2. [Erasmus Mundus](https://github.com/mahmoudxyz/master-degree-scholarships#erasmus-mundus-scholarship)
+3. [Romanian Scholarship](https://github.com/mahmoudxyz/master-degree-scholarships#Romanian-scholarship)
+4. [SI Scholarship](https://github.com/mahmoudxyz/master-degree-scholarships#si-scholarship)
+5. [Türkiye Scholarships](https://github.com/mahmoudxyz/master-degree-scholarships#Türkiye-scholarship)
+6. [SINGA](https://github.com/mahmoudxyz/master-degree-scholarships#SINGA)
+7. [DAAD](https://github.com/mahmoudxyz/master-degree-scholarships#daad-scholarship)
+8. [MEXT](https://github.com/mahmoudxyz/master-degree-scholarships#mext-scholarship)
+9. [Open Doors](https://github.com/mahmoudxyz/master-degree-scholarships#open-doors)
 
 
 
@@ -168,4 +168,34 @@ Fully-funded scholarships to undertake any master's course at any UK university.
 | **Official Website**     | [GSAS Yale University Fellowships](https://gsas.yale.edu/financial-aid/fellowships) |
 | **Application Portal**   | [GSAS Online Fellowship Application](https://gsas.yale.edu/admissions/apply-now) |
 
+## Russian Government Scholarship
+
+| **Category**             | **Details**                                   |
+|--------------------------|-----------------------------------------------|
+| **Scholarship Name**     | Russian Government Scholarship               |
+| **Sponsor**              | Russian Ministry of Education and Science    |
+| **Level**                | Bachelor's, Master's, and Ph.D. Programs      |
+| **Eligible Countries**   | All nationalities                             |
+| **Application Period**   | December 10th |
+| **Application Deadline** | Varies by program and country (Check Russian embassy or consulate)|
+| **Selection Criteria**   | Academic achievements, language proficiency, research potential, etc. |
+| **Funding Coverage**     | Tuition fees, living expenses, accommodation, health insurance, and travel costs, etc. |
+| **Duration**             | Varies by program (typically 1-5 years)      |
+| **Official Website**     | [Russian Government Scholarships](https://educationinrussia.ru/en/) |
+| **Application Portal**   | Varies by country (Check with Russian embassies or consulates) |
+
+## Open Doors
+
+| **Category**             | **Details**                                   |
+|--------------------------|-----------------------------------------------|
+| **Scholarship Name**     | The Association of Global Universities               
+| **Sponsor**              | Russian Ministry of Education and Science    |
+| **Level**                | Bachelor's, Master's, and Ph.D. Programs      |
+| **Eligible Countries**   | All nationalities                             |
+| **Application Period**   | September 15th |
+| **Application Deadline** | Varies by program and country (Check Russian embassy or consulate)|
+| **Selection Criteria**   | Academic achievements, language proficiency, research potential, etc. |
+| **Funding Coverage**     | Tuition fees, living expenses, accommodation, health insurance, and travel costs, etc. |
+| **Duration**             | Varies by program (typically 1-5 years)      |
+| **Official Website**     | [https://od.globaluni.ru/en/) |
 
